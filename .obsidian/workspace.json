@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "e7adb63d0e526c09",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a8d7163ec28052e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa171114a557ec39",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista grafo"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1d18f1c7a81efe6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "933f36864f250770",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f049a9fc9f3f204",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Esplora risorse"
+            }
+          },
+          {
+            "id": "3dd2f206e6ac2938",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "mle",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Ricerca"
+            }
+          },
+          {
+            "id": "7679b5218211a4d5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Segnalibri"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "130ddafe42ba87da",
+    "type": "split",
+    "children": [
+      {
+        "id": "20820f4116c2c16e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a0cd41a3865c1a9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "wiki/concetti/Teorema di approssimazione universale.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Riferimenti a Teorema di approssimazione universale"
+            }
+          },
+          {
+            "id": "908fad0dada2c2dd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "wiki/concetti/Teorema di approssimazione universale.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Collegamenti in uscita da Teorema di approssimazione universale"
+            }
+          },
+          {
+            "id": "a658f05aa1ab8168",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etichette"
+            }
+          },
+          {
+            "id": "640380b824034061",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Tutte le proprietà"
+            }
+          },
+          {
+            "id": "c73292b49038f47c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "wiki/concetti/Teorema di approssimazione universale.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Struttura di Teorema di approssimazione universale"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false,
+      "bases:Crea nuova Base": false
+    }
+  },
+  "active": "fa171114a557ec39",
+  "lastOpenFiles": [
+    "README.md",
+    "raw/esercizi/MatML/PreparazioneEsonero2MatML.pdf",
+    "wiki/esercizi/MatML — Preparazione Itinere 2 (2025-03).pdf",
+    "wiki/esercizi/MatML — Preparazione Itinere 2 (2025-03).md",
+    "wiki/corsi/Ottimizzazione.md",
+    "wiki/concetti/Metodo Cross-Entropy.md",
+    "wiki/concetti/Importance Sampling.md",
+    "wiki/concetti/Modello di Curie-Weiss e Hopfield.md",
+    "wiki/esercizi/figures/es8.pdf",
+    "wiki/esercizi/figures/es7.pdf",
+    "wiki/esercizi/figures/es6.pdf",
+    "wiki/esercizi/figures/es1.pdf",
+    "wiki/esercizi/figures/es2.pdf",
+    "wiki/esercizi/figures/es5.pdf",
+    "wiki/esercizi/figures/es4.pdf",
+    "wiki/esercizi/figures/es3.pdf",
+    "wiki/esercizi/MatML — Prova in Itinere 1 (2025-03).md",
+    "wiki/argomenti/MOC — Probabilistica.md",
+    "wiki/persone/Fisher, Ronald.md",
+    "index.md",
+    "wiki/concetti/Apprendimento Bayesiano.md",
+    "wiki/panoramica.md",
+    "CLAUDE.md",
+    "wiki/argomenti/MOC — Machine Learning.md",
+    "wiki/concetti/GPU e CUDA.md",
+    "wiki/dashboard.md",
+    "wiki/argomenti/Reti neurali.md",
+    "wiki/fonti/Dispense MatML — Galletti.md",
+    "wiki/concetti/Bilancio dettagliato.md",
+    "wiki/corsi/Matematica per il Machine Learning.md",
+    "wiki/concetti/Modello lineare normale.md",
+    "Quick Select.md",
+    "Problema dello zaino (Knapsack).md",
+    "panoramica.md",
+    "NDCG.md",
+    "Metodi Monte Carlo.md",
+    "Senza nome.canvas"
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "collapse-filter": false,
+  "search": "path:wiki -path:wiki/persone",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:wiki/persone",
+      "color": {
+        "a": 1,
+        "rgb": 10066329
+      }
+    },
+    {
+      "query": "path:wiki/fonti ",
+      "color": {
+        "a": 1,
+        "rgb": 5592405
+      }
+    },
+    {
+      "query": "path:wiki/corsi ",
+      "color": {
+        "a": 1,
+        "rgb": 2236962
+      }
+    },
+    {
+      "query": "[\"cluster\":\"trasversale\"]",
+      "color": {
+        "a": 1,
+        "rgb": 16766720
+      }
+    },
+    {
+      "query": "[\"cluster\":\"probabilistica\"]",
+      "color": {
+        "a": 1,
+        "rgb": 14698568
+      }
+    },
+    {
+      "query": "[\"cluster\":\"algoritmi\"]",
+      "color": {
+        "a": 1,
+        "rgb": 5294200
+      }
+    },
+    {
+      "query": "[\"cluster\":\"algebra\"]",
+      "color": {
+        "a": 1,
+        "rgb": 16747586
+      }
+    },
+    {
+      "query": "[\"cluster\":\"ottimizzazione\"]",
+      "color": {
+        "a": 1,
+        "rgb": 10181046
+      }
+    },
+    {
+      "query": "[\"cluster\":\"analisi\"]",
+      "color": {
+        "a": 1,
+        "rgb": 1752220
+      }
+    },
+    {
+      "query": "[\"cluster\":\"fisica\"]",
+      "color": {
+        "a": 1,
+        "rgb": 15277667
+      }
+    },
+    {
+      "query": "[\"cluster\":\"sistemi\"]",
+      "color": {
+        "a": 1,
+        "rgb": 9127187
+      }
+    },
+    {
+      "query": "[\"cluster\":\"numerico\"]",
+      "color": {
+        "a": 1,
+        "rgb": 14329120
+      }
+    },
+    {
+      "query": "[\"cluster\":\"ml\"]",
+      "color": {
+        "a": 1,
+        "rgb": 4886754
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 0.509396701388889,
+  "collapse-forces": false,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 12.8055555555556,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.27470238504768785,
+  "close": true
+}
